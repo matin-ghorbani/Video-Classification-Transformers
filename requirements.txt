@@ -1,0 +1,5 @@
+tensorflow
+pandas
+numpy
+imageio
+opencv-python
